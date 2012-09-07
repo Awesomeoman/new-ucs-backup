@@ -1,0 +1,1 @@
+# new-ucs-backup## SYNOPSISBackup Cisco UCS Manager cluster## PARAMETERNone yet## DESCRIPTIONConnect securely to a UCS Manager cluster and perform all four backup types. Backup files are saved via http to a customisable location. Results will then be emailed for successfull and failed backups.
